@@ -1,0 +1,88 @@
+\documentclass[12pt]{article}
+\usepackage{fancyhdr} 
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\footnotesize Viện Công nghệ thông tin và truyền thông} 
+\fancyhead[R]{\footnotesize Đại học Bách khoa Hà Nội}   
+\fancyfoot[R]{\footnotesize Báo cáo số 1}  
+\fancyfoot[C]{\thepage}  % center
+\fancyfoot[L]{\footnotesize Bộ môn Khoa học máy tính}  %izquierda
+\renewcommand{\footrulewidth}{0.4pt}
+\fancypagestyle{firststyle}
+{
+   \fancyhf{}
+}
+
+\usepackage{listings} % To use source code
+\definecolor{dkgreen}{rgb}{0,0.6,0} % Color for using code
+\definecolor{gray}{rgb}{0.5,0.5,0.5} 
+% Language to use
+\lstset{language=Matlab,
+   keywords={break,case,catch,continue,else,elseif,end,for,function,
+      global,if,otherwise,persistent,return,switch,try,while},
+   basicstyle=\ttfamily,
+   keywordstyle=\color{blue},
+   commentstyle=\color{red},
+   stringstyle=\color{dkgreen},
+   numbers=left,
+   numberstyle=\tiny\color{gray},
+   stepnumber=1,
+   numbersep=10pt,
+   backgroundcolor=\color{white},
+   tabsize=4,
+   showspaces=false,
+   showstringspaces=false}
+
+\title{Báo cáo tìm hiểu về các bài toán trong vấn đề đồng bộ hóa tiến trình}
+
+%%%%%%%% Preamble ends %%%%%%%%%%%%
+\definecolor{light-gray}{gray}{0.95}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Cover Page %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\thispagestyle{firststyle}
+\begin{center}
+  \begin{minipage}{0.48\textwidth} \begin{flushleft}
+  \includegraphics[scale = 0.4]{image2.jpg}
+  \end{flushleft}\end{minipage}
+  \begin{minipage}{0.48\textwidth} \begin{flushright}
+    \includegraphics[scale = 0.25]{image1.jpg}
+  \end{flushright}\end{minipage}
+
+  \vspace*{-2.5cm}
+  \textsc{\huge Hanoi University \\
+  \vspace{5px} of Science \\
+  \vspace{15px} and Technology}\\
+
+  \vspace*{1.5cm}
+
+  \textsc{\LARGE Viện công nghệ thông tin và truyền thông}\\[1.5cm]
+  \textsc{\LARGE Bộ môn: Khoa học máy tính}\\[1.5cm]
+
+  \begin{minipage}{0.9\textwidth} 
+    \begin{center}
+      \textsc{\LARGE Báo cáo số 1}
+    \end{center}
+  \end{minipage}\\[0.5cm]
+  
+  \vspace*{1cm}
+
+  { \huge \bfseries Tìm hiểu về các bài toán trong vấn đề đồng bộ hóa tiến trình}\\[0.4cm]	
+  \vspace*{1cm}
+  { \large 
+    \emph{Tác giả:} \\	
+      Vũ Trung Nghia, 20173284 \\
+      Lê Vũ Lợi, 20173240 \\
+    \vspace*{0.5cm}
+    \emph{Người hướng dẫn:} \\													  
+      Nguyễn Tuấn Hải \\
+  }
+
+
+  \vspace{2cm} 	
+  \begin{center}
+    {Hà Nội - \today}
+  \end{center}
+  
+\end{center}

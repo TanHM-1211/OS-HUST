@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}L\IeC {\`\ohorn }i m\IeC {\h \ohorn } \IeC {\dj }\IeC {\`\acircumflex }u}{3}{section.1}% 
+\contentsline {section}{\numberline {2}C\IeC {\'a}c b\IeC {\`a}i to\IeC {\'a}n \IeC {\dj }\IeC {\`\ocircumflex }ng b\IeC {\d \ocircumflex } h\IeC {\'o}a}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}B\IeC {\`a}i to\IeC {\'a}n ng\IeC {\uhorn }\IeC {\`\ohorn }i h\IeC {\'u}t thu\IeC {\'\ocircumflex }c l\IeC {\'a}}{4}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}V\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex }}{4}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {2.1.2}Gi\IeC {\h a}i ph\IeC {\'a}p}{4}{subsubsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.2}B\IeC {\`a}i to\IeC {\'a}n xe bu\IeC {\'y}t Senate}{5}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}V\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex }}{5}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Gi\IeC {\h a}i ph\IeC {\'a}p}{5}{subsubsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.3}B\IeC {\`a}i to\IeC {\'a}n \IeC {\^o}ng gi\IeC {\`a} Noel}{6}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}V\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex }}{6}{subsubsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}Gi\IeC {\h a}i ph\IeC {\'a}p}{7}{subsubsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.4}B\IeC {\`a}i to\IeC {\'a}n b\IeC {\u a}ng qua s\IeC {\^o}ng}{9}{subsection.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}Ph\IeC {\'a}t bi\IeC {\h \ecircumflex }u b\IeC {\`a}i to\IeC {\'a}n}{9}{subsubsection.2.4.1}% 
+\contentsline {subsubsection}{\numberline {2.4.2}Ph\IeC {\^a}n t\IeC {\'\i }ch b\IeC {\`a}i to\IeC {\'a}n}{9}{subsubsection.2.4.2}% 
+\contentsline {subsubsection}{\numberline {2.4.3}Gi\IeC {\h a}i ph\IeC {\'a}p cho b\IeC {\`a}i to\IeC {\'a}n}{9}{subsubsection.2.4.3}% 
+\contentsline {subsubsection}{\numberline {2.4.4}C\IeC {\'a}c v\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex } c\IeC {\`o}n t\IeC {\`\ocircumflex }n t\IeC {\d a}i}{10}{subsubsection.2.4.4}% 
+\contentsline {subsection}{\numberline {2.5}B\IeC {\`a}i to\IeC {\'a}n v\IeC {\`\ecircumflex } ph\IeC {\`o}ng cho b\IeC {\~\uhorn }a ti\IeC {\d \ecircumflex }c}{10}{subsection.2.5}% 
+\contentsline {subsubsection}{\numberline {2.5.1}Ph\IeC {\'a}t bi\IeC {\h \ecircumflex }u b\IeC {\`a}i to\IeC {\'a}n}{10}{subsubsection.2.5.1}% 
+\contentsline {subsubsection}{\numberline {2.5.2}Ph\IeC {\^a}n t\IeC {\'\i }ch b\IeC {\`a}i to\IeC {\'a}n}{11}{subsubsection.2.5.2}% 
+\contentsline {subsubsection}{\numberline {2.5.3}Gi\IeC {\h a}i ph\IeC {\'a}p cho b\IeC {\`a}i to\IeC {\'a}n}{11}{subsubsection.2.5.3}% 
+\contentsline {subsection}{\numberline {2.6}B\IeC {\`a}i to\IeC {\'a}n b\IeC {\h \ecircumflex } b\IeC {\ohorn }i}{13}{subsection.2.6}% 
+\contentsline {subsubsection}{\numberline {2.6.1}Ph\IeC {\'a}t bi\IeC {\h \ecircumflex }u b\IeC {\`a}i to\IeC {\'a}n}{13}{subsubsection.2.6.1}% 
+\contentsline {section}{\numberline {3}T\IeC {\h \ocircumflex }ng k\IeC {\'\ecircumflex }t}{14}{section.3}% 
+\contentsline {section}{\numberline {4}Reference}{14}{section.4}% 
+\contentsline {section}{References}{14}{section.4}% 
