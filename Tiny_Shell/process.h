@@ -79,7 +79,7 @@ int process_works(char** args)
 	}
 	else if (len(args, 4, 0))
 	{
-		if (!strcmp(args[1], "-id"))
+		if (!strcmp(args[1], "-find"))
 		{
 			return find_process_id(args[2]);
 		}

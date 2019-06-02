@@ -52,32 +52,32 @@ int help(char **args)
     }
     else if (len(args, 2,0)) 
     {
-        printf("Type \"help [command]\" for more information about a specific command.\nEXAMPLE: help ps\n");
+        printf("Type \"help -[command]\" for more information about a specific command.\nEXAMPLE: help ps\n");
         printf("\nSuppoted commands:\n cd\n date\n time\n dir\n ps\n enva\n exit\n");
         printf("\nUsage:\n <command> -[option]\nEXAMPLE: ps -all\n");
     }
-    else if (!strcmp(args[1], "cd"))
+    else if (!strcmp(args[1], "-cd"))
     {
         // printf("Commands:\n");
         printf("Change the current directory. You must write the new directory after this command.\nEXAMPLE: \"cd C:/\"\n");
         printf("This command does not support any options.\n");
     }
-    else if (!strcmp(args[1], "time"))
+    else if (!strcmp(args[1], "-time"))
     {
         printf("Print current time to screen.\n");
         printf("This command does not support any options.\n");
     }
-    else if (!strcmp(args[1], "date"))
+    else if (!strcmp(args[1], "-date"))
     {
         printf("Print current date to screen.\n");
         printf("This command does not support any options.\n");
     }
-    else if (!strcmp(args[1], "dir"))
+    else if (!strcmp(args[1], "-dir"))
     {
         printf("Show list of files or folders in current folder or specific folder (write path after this command).\n");
         printf("EXAMPLES: \"dir\", \"dir C:/\"\n");
     }
-    else if (!strcmp(args[1], "ps"))
+    else if (!strcmp(args[1], "-ps"))
     {
         printf("Supported options:\n");
         printf("%-20s%s", " all", "Show list of all running processes.\n");
